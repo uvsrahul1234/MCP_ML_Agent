@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+joblib
+shap
+pyarrow
+mcp
+
+# uv venv
+# uv pip install -r requirements.txt
